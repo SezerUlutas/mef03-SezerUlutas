@@ -1,0 +1,29 @@
+# "Assignment 1 for week 1"
+
+Sezer Ulutas
+Sept 25, 2019
+
+I’m working at Appcent as a Business Consultant for collecting Datas from Mobile Apps and Web Apps via Countly. For the last four years i’ve been working on mobile business. Learned about mobile developement for three years and after mobile development processes for 1 year. During these years, i’ve been faced with the different sectors on analyzing this different mobile issues. I would like to improve my data science skills to support decision making process with efficient and effective solutions to give more efficient consultancy for my customers.
+
+## Assignment1 : Introduction to Data Science with R Part 1
+
+[Introduction to Data Science with R - Data Analysis Part 1](https://www.youtube.com/watch?v=32o0DnuRjfg)
+
+Part 1 in a in-depth hands-on tutorial introducing the viewer to Data Science with R programming. The video provides end-to-end data science training, including data exploration, data wrangling, data analysis, data visualization, feature engineering, and machine learning. Example of titanic disaster was so nice and i learned lots of way to do ML.
+
+## Assignment2 : Predictive Analytics Using R
+
+[Predictive Analytics Using R ](https://www.youtube.com/watch?v=DPAsYtUHkkM)
+
+It contains predictive analytics using in R and describing all the periods of that section. There are some questions about what is predictive analytics, what stages of predictive analytics, how predictive analytics using R, what are use cases and demo.
+
+## Assignment3 : Introduction to Data Science with R Part 2
+
+[Introduction to Data Science with R - Data Analysis Part 2](https://youtube.com/watch?v=u6sahb7Hmog)
+
+That video cont'd of the Introduction to Data Science with R Part 1. In this video we also investigate the titanic disaster and also visualise graph of it.
+
+
+Looking different codes, videos and different cases opening our mind from the beginning. Thanks for that.
+
+
