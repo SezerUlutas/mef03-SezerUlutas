@@ -11,3 +11,7 @@ Please see my Homework 1 from the link below:
 Please see my Homework 2 from the link below:
 
 [Homework 2](http://pjournal.github.io/mef03-SezerUlutas/bkm.html)
+
+Please see my Homework 3 from the link below:
+
+[Homework 3](http://pjournal.github.io/mef03-SezerUlutas/tennis.html)
